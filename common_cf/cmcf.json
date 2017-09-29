@@ -1,0 +1,66 @@
+{
+  "version": "7",
+  "periodOfValiditySeconds": "3600",
+  "adGroupName": "1.9.3andunder",
+  "interstitialForAppStart": {
+    "enable": "1",
+    "type": "admob",
+    "ads": [
+      {
+        "type": "admob",
+        "id": "ca-app-pub-6159372033198367/4684339640"
+      }
+    ]
+  },
+  "nativeForFlow": {
+    "enable": "1",
+    "insertType": "1",
+    "enableFastAd": "1",
+    "periodOfValiditySeconds": "900",
+    "rootAllFolders": {
+      "start": "0",
+      "interval": "15",
+      "adGroup": "0/1/2/3"
+    },
+    "uriAllFolders": {
+      "start": "0",
+      "interval": "9",
+      "adGroup": "0/1/2/3"
+    },
+    "rootFolders": {
+      "start": "1",
+      "interval": "15",
+      "adGroup": "0/1/2/3"
+    },
+    "uriFolders": {
+      "start": "1",
+      "interval": "15",
+      "adGroup": "0/1/2/3"
+    },
+    "rootFiles": {
+      "start": "0",
+      "interval": "9",
+      "adGroup": "0/1/2/3"
+    },
+    "search": {
+      "start": "0",
+      "interval": "9",
+      "adGroup": "0/1/2/3"
+    },
+    "ads": [
+      {
+        "type": "admobAppInstall",
+        "id": "ca-app-pub-6159372033198367/4684339640"
+      },
+      {
+        "type": "admobAppInstall",
+        "id": "ca-app-pub-6159372033198367/4684339640"
+      }
+    ]
+  },
+  "nativeForPlayer": {
+    "enable": "1",
+    "ads": [
+    ]
+  }
+}
