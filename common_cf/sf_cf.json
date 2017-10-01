@@ -1,0 +1,25 @@
+{
+	"status": "ok",
+	"errno": 0,
+	"data": {
+		"app_id": 60005,
+		"controller": [{
+			"app_placement_id": "20014",
+			"ad": []
+		}, {
+			"app_placement_id": "20015",
+			"ad": [{
+				"platform_id": "50002",
+				"placement_app_id": "ca-app-pub-3935620297880745~6453211111",
+				"placement_id": "ca-app-pub-6159372033198367/4950087049"
+			}]
+		}, {
+			"app_placement_id": "20016",
+			"ad": [{
+				"platform_id": "50002",
+				"placement_app_id": "ca-app-pub-3935620297880745~6453211111",
+				"placement_id": "ca-app-pub-6159372033198367/4950087049"
+			}]
+		}]
+	}
+}
