@@ -5,7 +5,11 @@
 		"app_id": 60005,
 		"controller": [{
 			"app_placement_id": "20014",
-			"ad": []
+			"ad": [{
+				"platform_id": "50002",
+				"placement_app_id": "",
+				"placement_id": ""
+			}]
 		}, {
 			"app_placement_id": "20015",
 			"ad": [{
